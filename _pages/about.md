@@ -1,14 +1,6 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
+About me
+======
 I'm a fourth year undergraduate student from Harbin Institute of Technology,Shenzhen(https://www.hitsz.edu.cn), [UESTC](https://www.hitsz.edu.cn). My research interest includes VLM, multimodel RAG, and Agent.
-
 
 A data-driven personal website
 ======
