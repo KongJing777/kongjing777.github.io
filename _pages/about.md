@@ -1,6 +1,6 @@
 About me
 ======
-I'm a fourth year undergraduate student from Harbin Institute of Technology,Shenzhen(https://www.hitsz.edu.cn), [UESTC](https://www.hitsz.edu.cn). My research interest includes VLM, multimodel RAG, and Agent.
+I'm a fourth year undergraduate student from Harbin Institute of Technology,Shenzhen [HITSZ](https://www.hitsz.edu.cn). My research interest includes VLM, multimodel RAG, and Agent.
 
 A data-driven personal website
 ======
