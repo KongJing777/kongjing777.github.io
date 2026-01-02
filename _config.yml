@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kong Jing"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen"
   #employer         : "Red Brick University"
   uri              : # URL
-  email            : "220320109@stu.hit.edu.cn" 
+  email            : 220320109@stu.hit.edu.cn 
 
   # Academic websites
   #academia         : # URL
