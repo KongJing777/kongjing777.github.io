@@ -15,14 +15,15 @@ In Fall 2026, I will be joining Nanyang Technological University (NTU) to pursue
 
 💻 Internships
 ------
-**Guangdong Artificial Intelligence and Digital Economy Laboratory (Shenzhen)** | 06/2025 – 03/2026  
-* Multimodal Learning Intern, AIGC Project Group*
+**Guangdong Artificial Intelligence and Digital Economy Laboratory (Shenzhen)** 
+*06/2025 – 03/2026*
+*Multimodal Learning Intern, AIGC Project Group*
 * Involved in unified generative framework research.
 
 🏫 Education
 ------
 **Harbin Institute of Technology, Shenzhen** | 2022.09 – 2026.06 (Expected)  
-* B.Sc. in Automation*  
+*B.Sc. in Automation*  
 * Language: IELTS 7.0  
 * Key Courses: Digital Image Processing, Machine Learning, Programming (C/C++), Control Engineering, Linear Algebra, Probability & Statistics.
 
