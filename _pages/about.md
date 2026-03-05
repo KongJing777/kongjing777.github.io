@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About mee
+About mee_master
 ======
 I'm a fourth year undergraduate student from Harbin Institute of Technology,Shenzhen [HITSZ](https://www.hitsz.edu.cn). My research interest includes VLM, multimodel RAG, and Agent.
 
