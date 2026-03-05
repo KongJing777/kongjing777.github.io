@@ -21,7 +21,6 @@ Multimodal Learning Intern, 06/2025 - 3/2026
 ------
 2022.09 – 2026.06 (Expected)
 Harbin Institute of Technology,Shenzhen, B.Sc. in Automation
-📍 Harbin, Heilongjiang, China
 Language: IELTS: 7.0
 Key Courses: Digital Image Processing, Machine Learning, Programming (C/C++), Control Engineering, Mathematics
 
