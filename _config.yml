@@ -31,8 +31,8 @@ author:
   location         : "Shenzhen"
   #employer         : "Red Brick University"
   #uri              : "https://github.com/KongJing777/kongjing777.github.io/edit/master/_config.yml"# URL
-  email            : "220320109@stu.hit.edu.cn" 
-  wechat           : "K13751319030"
+  email            : "mailto:220320109@stu.hit.edu.cn" 
+  weixin           : "K13751319030"
 
   # Academic websites
   #academia         : # URL
