@@ -1,27 +1,27 @@
 ---
 permalink: /
-#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-⭐️About Me
-------
-I'm a fourth year undergraduate student from Harbin Institute of Technology,Shenzhen [HITSZ](https://www.hitsz.edu.cn). My research interest includes VLM, multimodel RAG, and Agent.
+I am a fourth-year undergraduate student at **Harbin Institute of Technology, Shenzhen ([HITSZ](https://www.hitsz.edu.cn))**, majoring in *Automation*. 
+
+My research interests lie at the intersection of **Vision-Language Models (VLM)**, **Multimodal RAG**, and **AI Agents**. I am passionate about building unified frameworks that bridge generative tasks with real-world understanding.
+
+In Fall 2026, I will be joining **Nanyang Technological University (NTU)** to pursue an *M.Sc. in Artificial Intelligence*.
 
 💻 Internships
 ------
-AIGC Project Group, Guangdong Artificial Intelligence and Digital Economy Laboratory (Shenzhen)
-Multimodal Learning Intern, 06/2025 - 3/2026
-
+**Guangdong Artificial Intelligence and Digital Economy Laboratory (Shenzhen)** *Multimodal Learning Intern, AIGC Project Group* | 06/2025 – 03/2026  
+* Involved in large-scale multimodal dataset construction and generative model optimization.
 
 🏫 Education
 ------
-2022.09 – 2026.06 (Expected)
-Harbin Institute of Technology,Shenzhen, B.Sc. in Automation
-Language: IELTS: 7.0
-Key Courses: Digital Image Processing, Machine Learning, Programming (C/C++), Control Engineering, Mathematics
+**Harbin Institute of Technology, Shenzhen** | 2022.09 – 2026.06 (Expected)  
+*B.Sc. in Automation* * **Language:** IELTS 7.0  
+* **Key Courses:** *Digital Image Processing, Machine Learning, Programming (C/C++), Control Engineering, Linear Algebra, Probability & Statistics.*
 
-In Fall 2026, I will join Nangyang Technological University (NTU) as an incoming M.Sc. student in Artificial Intelligence.
+---
