@@ -26,7 +26,7 @@ author:
   # Biographic information
   avatar           : "66.png"
   name             : "Kong Jing"
-  pronouns         : "he/him"# example: "she/her"  
+  #pronouns         : "he/him"# example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen"
   #employer         : "Red Brick University"
